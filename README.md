@@ -81,9 +81,10 @@ Hands-on certification covering Python, statistics, machine learning, NLP, and r
 
 ## Connect With Me
 
-- **Email:** neekhilrajeshware@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-link  
-- **GitHub:** https://github.com/your-username  
+- **Email:** neekhilrajeshware@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/neekhil-neekhil-595615303
+- **GitHub:** https://github.com/Neekhil-Raj
+- **Phone:** +91 7975855582
 
 ---
 
