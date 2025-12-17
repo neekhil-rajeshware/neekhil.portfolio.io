@@ -88,4 +88,4 @@ Hands-on certification covering Python, statistics, machine learning, NLP, and r
 
 ---
 
-⭐ *If you like my work, feel free to star the repository or connect with me!*  
+*If you like my work, feel free to star the repository or connect with me!*  
