@@ -1,4 +1,4 @@
-# Neekhil Rajeshware | Data Scientist & AI Engineer
+# Aspiring Data Scientist & AI Engineer
 
 Welcome to my GitHub portfolio
 I am an aspiring **Data Scientist / AI Engineer** with hands-on experience in **Machine Learning, NLP, and applied analytics**, focused on solving real-world business problems using data.
